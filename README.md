@@ -243,7 +243,7 @@ Built for **CMPE2003 Microcomputers** at Curtin University, 2026.
 |---|---|
 | **Om Patel** | Assembly UART and interrupt code: interrupt-driven transmit ring buffer, UART TX ISR and timestamped record formatting. UART flowcharts, hardware testing and demonstration. |
 | **Mohamed Khalif** | Assembly implementation: Timer_A0 ISR, button debouncing and call-state logic. |
-| **Pravit (Mac) Mung-Uaklang** | [to confirm] |
+| **Pravit (Mac) Mung-Uaklang** | C Code |
 
 ## Academic integrity
 
